@@ -1,6 +1,7 @@
 #! /bin/bash
 echo "hello gp"
 ls
+ajkfh
 
 
 echo $BASH
